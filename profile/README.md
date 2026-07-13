@@ -33,7 +33,7 @@ Die etablierten Anbieter für Security-Awareness-Training betreiben ihre Plattfo
 | SoSafe | Cloud-only |
 | Hoxhunt | Cloud-only |
 | Proofpoint | Cloud-only |
-| **HumanShield** | **Self-Hosted, Managed Service oder Cloud** |
+| **HumanShield** | **Self-Hosted** |
 
 Damit ist HumanShield für Organisationen relevant, bei denen Cloud-SaaS aus regulatorischen oder vertraglichen Gründen ausscheidet oder nur eingeschränkt infrage kommt — etwa KRITIS-Betreiber, öffentliche Auftraggeber mit BSI-IT-Grundschutz-Vorgaben, Finanzinstitute unter BAIT/VAIT oder Organisationen mit Schrems-II-Bedenken bei der Datenverarbeitung außerhalb der EU. Der Core ist zudem quelloffen: Code prüfen, selbst hosten, volle Kontrolle über die eigene Infrastruktur — ohne Vendor-Lock-in.
 
