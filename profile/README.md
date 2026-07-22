@@ -100,10 +100,10 @@ flowchart TD
 
 ## Kontakt
 
-- 🌐 Website: [humanshield-awareness.de](https://humanshield-awareness.de)
-- ✉️ Kontakt: [support@humanshield.app](mailto:support@humanshield.app)
-- 🏢 HumanShield Awareness UG · Deutschland
-- [Impressum](https://humanshield-awareness.de/de/impressum) · [Datenschutz](https://humanshield-awareness.de/de/datenschutz) · [AGB](https://humanshield-awareness.de/de/agb)
+- 🌐 Website: [sentrymail.de](https://sentrymail.de)
+- ✉️ Kontakt: [support@sentrymail](mailto:support@sentrymail.de)
+- 🏢 SecureBits Cyber Security UG · Deutschland
+- [Impressum](https://sentrymail.de/de/impressum) · [Datenschutz](https://sentrymail.de/de/datenschutz) · [AGB](https://sentrymail.de/de/agb)
 
 
 
