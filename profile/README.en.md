@@ -8,7 +8,7 @@
 
 Realistic phishing simulations, training that sticks, and reporting that makes progress visible. The only solution in its category that can be fully **self-hosted**.
 
-[![Website](https://img.shields.io/badge/Website-humanshield--awareness.de-1e2327?style=flat-square)](https://sentrymail.de/en/)
+[![Website](https://img.shields.io/badge/Website-sentrymail.de-1e2327?style=flat-square)](https://sentrymail.de/en/)
 [![Self-Hosted](https://img.shields.io/badge/Deployment-Self--Hosted%20%7C%20Managed%20%7C%20Cloud-2ea44f?style=flat-square)](#the-differentiator-self-hosting)
 [![Open Core](https://img.shields.io/badge/License-Open%20Core-1e2327?style=flat-square)](https://github.com/securebits-cyber/sentrymail.de)
 [![Made in Germany](https://img.shields.io/badge/Made%20in-Germany-black?style=flat-square)](#)
