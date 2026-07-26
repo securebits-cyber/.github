@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/301758023?s=200&v=4" width="96" alt="HumanShield Awareness Logo" />
 
-# humanshield.
+# sentrymail.
 
 **Security Awareness, die wirkt — und bei Ihnen bleibt.**
 
