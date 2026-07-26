@@ -2,20 +2,19 @@
 
 <img src="https://avatars.githubusercontent.com/u/301758023?s=200&v=4" width="96" alt="HumanShield Awareness Logo" />
 
-# humanshield.
+# SentryMail.
 
 **Security awareness that actually works — and stays with you.**
 
 Realistic phishing simulations, training that sticks, and reporting that makes progress visible. The only solution in its category that can be fully **self-hosted**.
 
-[![Website](https://img.shields.io/badge/Website-humanshield--awareness.de-1e2327?style=flat-square)](https://humanshield-awareness.de/en/)
-[![App](https://img.shields.io/badge/App-humanshield.app-1e2327?style=flat-square)](https://humanshield.app)
+[![Website](https://img.shields.io/badge/Website-humanshield--awareness.de-1e2327?style=flat-square)](https://sentrymail.de/en/)
 [![Self-Hosted](https://img.shields.io/badge/Deployment-Self--Hosted%20%7C%20Managed%20%7C%20Cloud-2ea44f?style=flat-square)](#the-differentiator-self-hosting)
-[![Open Core](https://img.shields.io/badge/License-Open%20Core-1e2327?style=flat-square)](https://github.com/HumanShield-Awareness/HumanShield.APP)
+[![Open Core](https://img.shields.io/badge/License-Open%20Core-1e2327?style=flat-square)](https://github.com/securebits-cyber/sentrymail.de)
 [![Made in Germany](https://img.shields.io/badge/Made%20in-Germany-black?style=flat-square)](#)
 [![Compliance](https://img.shields.io/badge/GDPR--compliant-NIS2--ready-blue?style=flat-square)](#)
 
-[View pricing](https://humanshield-awareness.de/en/preise) · [View on GitHub](https://github.com/HumanShield-Awareness/HumanShield.APP)
+[View pricing](https://sentrymail.de/en/preise/) · [View on GitHub](https://github.com/securebits-cyber/sentrymail.de)
 
 </div>
 
@@ -23,7 +22,7 @@ Realistic phishing simulations, training that sticks, and reporting that makes p
 
 ## The differentiator: self-hosting
 
-> **HumanShield is the only solution in its category that can be run fully self-hosted.**
+> **SentryMail is the only solution in its category that can be run fully self-hosted.**
 
 The established security-awareness vendors operate exclusively as cloud SaaS:
 
@@ -33,9 +32,9 @@ The established security-awareness vendors operate exclusively as cloud SaaS:
 | SoSafe | Cloud-only |
 | Hoxhunt | Cloud-only |
 | Proofpoint | Cloud-only |
-| **HumanShield** | **Self-hosted, managed service, or cloud** |
+| **SentryMail** | **Self-hosted, managed service, or cloud** |
 
-That makes HumanShield relevant for organizations where cloud SaaS is off the table — or only conditionally viable — for regulatory or contractual reasons: KRITIS operators, public-sector bodies bound by BSI IT-Grundschutz, financial institutions under BAIT/VAIT, or any organization with Schrems-II concerns about data leaving the EU. The core is also open source: inspect the code, host it yourself, keep full control of your own infrastructure — no vendor lock-in.
+That makes SentryMail relevant for organizations where cloud SaaS is off the table — or only conditionally viable — for regulatory or contractual reasons: KRITIS operators, public-sector bodies bound by BSI IT-Grundschutz, financial institutions under BAIT/VAIT, or any organization with Schrems-II concerns about data leaving the EU. The core is also open source: inspect the code, host it yourself, keep full control of your own infrastructure — no vendor lock-in.
 
 ---
 
@@ -75,12 +74,11 @@ flowchart TD
     CORE --> BUSINESS --> ENTERPRISE
 ```
 
-[See all features →](https://humanshield-awareness.de/en/funktionen)
+[See all features →](https://sentrymail.de/en/funktionen/)
 
 ---
 
-## Why HumanShield
-
+## Why SentryMail
 | | |
 |---|---|
 | **🇩🇪 Made in Germany** | Fully developed and sold in Germany — support in German, short paths to the developers |
@@ -93,17 +91,17 @@ flowchart TD
 
 | Repository | Description |
 |---|---|
-| [`HumanShield.APP`](https://github.com/HumanShield-Awareness/HumanShield.APP) | Open-core application — free to use and self-hostable |
-| [`humanshield-awareness.de`](https://github.com/HumanShield-Awareness/humanshield-awareness.de) | Public website (Astro), hosted on Cloudflare Pages |
+| [`SentryMail.APP`](https://github.com/securebits-cyber/sentrymail.de) | Open-core application — free to use and self-hostable |
+| [`sentrymail.de`](https://sentrymail.de/en/) | Public website |
 
 ---
 
 ## Contact
 
-- 🌐 Website: [humanshield-awareness.de](https://humanshield-awareness.de/en/)
-- ✉️ Contact: [support@humanshield.app](mailto:support@humanshield.app)
+- 🌐 Website: [sentrymail.de](https://sentrymail.de/en/)
+- ✉️ Contact: [support@humanshield.app](mailto:support@sentrymail.app)
 - 🏢 HumanShield Awareness UG · Germany
-- [Imprint](https://humanshield-awareness.de/de/impressum) · [Privacy policy](https://humanshield-awareness.de/de/datenschutz) · [Terms](https://humanshield-awareness.de/de/agb)
+- [Imprint](https://sentrymail.de/en/impressum) · [Privacy policy](https://sentrymail.de/en/datenschutz) · [Terms](https://sentrymail.de/en/agb)
 
 
 </div>
