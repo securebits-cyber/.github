@@ -8,14 +8,13 @@
 
 Realistische Phishing-Simulationen, Trainings mit Aha-Effekt und Reporting, das Fortschritt sichtbar macht. Als einzige Lösung am Markt vollständig **self-hosted** betreibbar.
 
-[![Website](https://img.shields.io/badge/Website-humanshield--awareness.de-1e2327?style=flat-square)](https://humanshield-awareness.de)
-[![App](https://img.shields.io/badge/App-humanshield.app-1e2327?style=flat-square)](https://humanshield.app)
+[![Website](https://img.shields.io/badge/Website-sentrymail.de-1e2327?style=flat-square)](https://sentrymail.de)
 [![Self-Hosted](https://img.shields.io/badge/Deployment-Self--Hosted%20%7C%20Managed%20%7C%20Cloud-2ea44f?style=flat-square)](#das-alleinstellungsmerkmal-self-hosting)
-[![Open Core](https://img.shields.io/badge/Lizenz-Open%20Core-1e2327?style=flat-square)](https://github.com/HumanShield-Awareness/HumanShield.APP)
+[![Open Core](https://img.shields.io/badge/Lizenz-Open%20Core-1e2327?style=flat-square)](https://github.com/securebits-cyber/sentrymail.de)
 [![Made in Germany](https://img.shields.io/badge/Made%20in-Germany-black?style=flat-square)](#)
 [![Compliance](https://img.shields.io/badge/DSGVO--konform-NIS2--ready-blue?style=flat-square)](#)
 
-[Preise ansehen](https://humanshield-awareness.de/de/preise) · [Auf GitHub ansehen](https://github.com/HumanShield-Awareness/HumanShield.APP) · [English version](README.en.md)
+[Preise ansehen](https://sentrymail.de/de/preise/) · [Auf GitHub ansehen](https://github.com/securebits-cyber/sentrymail.de) · [English version](README.en.md)
 
 </div>
 
@@ -23,7 +22,7 @@ Realistische Phishing-Simulationen, Trainings mit Aha-Effekt und Reporting, das 
 
 ## Das Alleinstellungsmerkmal: Self-Hosting
 
-> **HumanShield ist die einzige Lösung im Vergleich, die sich vollständig selbst hosten lässt.**
+> **SentryMail ist die einzige Lösung im Vergleich, die sich vollständig selbst hosten lässt.**
 
 Die etablierten Anbieter für Security-Awareness-Training betreiben ihre Plattformen ausschließlich als Cloud-SaaS:
 
@@ -33,7 +32,7 @@ Die etablierten Anbieter für Security-Awareness-Training betreiben ihre Plattfo
 | SoSafe | Cloud-only |
 | Hoxhunt | Cloud-only |
 | Proofpoint | Cloud-only |
-| **HumanShield** | **Self-Hosted** |
+| **SentryMail** | **Self-Hosted** |
 
 Damit ist HumanShield für Organisationen relevant, bei denen Cloud-SaaS aus regulatorischen oder vertraglichen Gründen ausscheidet oder nur eingeschränkt infrage kommt — etwa KRITIS-Betreiber, öffentliche Auftraggeber mit BSI-IT-Grundschutz-Vorgaben, Finanzinstitute unter BAIT/VAIT oder Organisationen mit Schrems-II-Bedenken bei der Datenverarbeitung außerhalb der EU. Der Core ist zudem quelloffen: Code prüfen, selbst hosten, volle Kontrolle über die eigene Infrastruktur — ohne Vendor-Lock-in.
 
@@ -75,11 +74,11 @@ flowchart TD
     CORE --> BUSINESS --> ENTERPRISE
 ```
 
-[Alle Funktionen im Detail →](https://humanshield-awareness.de/de/funktionen)
+[Alle Funktionen im Detail →](https://sentrymail.de/de/funktionen/)
 
 ---
 
-## Warum HumanShield
+## Warum SentryMail
 
 | | |
 |---|---|
@@ -93,8 +92,8 @@ flowchart TD
 
 | Repository | Beschreibung |
 |---|---|
-| [`HumanShield.APP`](https://github.com/HumanShield-Awareness/HumanShield.APP) | Open-Core-Kernanwendung — kostenlos nutzbar und selbst hostbar |
-| [`humanshield-awareness.de`](https://github.com/HumanShield-Awareness/humanshield-awareness.de) | Öffentliche Website |
+| [`HumanShield.APP`](https://github.com/securebits-cyber/sentrymail.de) | Open-Core-Kernanwendung — kostenlos nutzbar und selbst hostbar |
+| [`humanshield-awareness.de`](https://sentrymail.de/de/) | Öffentliche Website |
 
 ---
 
