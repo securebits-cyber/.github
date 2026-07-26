@@ -34,7 +34,7 @@ Die etablierten Anbieter für Security-Awareness-Training betreiben ihre Plattfo
 | Proofpoint | Cloud-only |
 | **SentryMail** | **Self-Hosted** |
 
-Damit ist HumanShield für Organisationen relevant, bei denen Cloud-SaaS aus regulatorischen oder vertraglichen Gründen ausscheidet oder nur eingeschränkt infrage kommt — etwa KRITIS-Betreiber, öffentliche Auftraggeber mit BSI-IT-Grundschutz-Vorgaben, Finanzinstitute unter BAIT/VAIT oder Organisationen mit Schrems-II-Bedenken bei der Datenverarbeitung außerhalb der EU. Der Core ist zudem quelloffen: Code prüfen, selbst hosten, volle Kontrolle über die eigene Infrastruktur — ohne Vendor-Lock-in.
+Damit ist **SentryMail** für Organisationen relevant, bei denen Cloud-SaaS aus regulatorischen oder vertraglichen Gründen ausscheidet oder nur eingeschränkt infrage kommt — etwa KRITIS-Betreiber, öffentliche Auftraggeber mit BSI-IT-Grundschutz-Vorgaben, Finanzinstitute unter BAIT/VAIT oder Organisationen mit Schrems-II-Bedenken bei der Datenverarbeitung außerhalb der EU. Der Core ist zudem quelloffen: Code prüfen, selbst hosten, volle Kontrolle über die eigene Infrastruktur — ohne Vendor-Lock-in.
 
 ---
 
@@ -92,8 +92,8 @@ flowchart TD
 
 | Repository | Beschreibung |
 |---|---|
-| [`HumanShield.APP`](https://github.com/securebits-cyber/sentrymail.de) | Open-Core-Kernanwendung — kostenlos nutzbar und selbst hostbar |
-| [`humanshield-awareness.de`](https://sentrymail.de/de/) | Öffentliche Website |
+| [`SentryMail.APP`](https://github.com/securebits-cyber/sentrymail.de) | Open-Core-Kernanwendung — kostenlos nutzbar und selbst hostbar |
+| [`sentrymail.de`](https://sentrymail.de/de/) | Öffentliche Website |
 
 ---
 
